@@ -1,0 +1,18 @@
+ENVI
+description = {
+  CIMEL 318 Surface Emissivity [Thu Oct 20 16:04:29 2022]}
+samples = 6
+lines   = 1
+bands   = 1
+header offset = 0
+file type = ENVI Spectral Library
+data type = 5
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Micrometers
+z plot titles = {CLIMAT band, Emissivity}
+band names = {
+ Surface_Emissivity}
+spectra names = {
+ mean_emissivity  TES_Temp=       30.657143ºC}

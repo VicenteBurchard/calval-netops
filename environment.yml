@@ -1,0 +1,16 @@
+name: calval-netops
+channels:
+    - conda-forge
+dependencies:
+    - jupyter
+    - notebook
+    - jupyterlab
+    - jupyter-book
+    - gdal
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+    - geopandas
+    - pathlib
+    - scikit-learn

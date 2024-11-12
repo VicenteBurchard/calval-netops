@@ -1,0 +1,20 @@
+ENVI
+description = {
+  CIMEL 318 Radiance [Thu Oct 20 16:04:29 2022]}
+samples = 6
+lines   = 16
+bands   = 1
+header offset = 0
+file type = ENVI Spectral Library
+data type = 5
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Micrometers
+z plot titles = {CIMEL band, Radiance(Wm2srum)}
+spectra names = {
+ mean_target, mean_target +sd, mean_target -sd, mean_sky, mean_sky +sd, 
+ mean_sky -sd, 16/09/2022 9:33:45, 16/09/2022 9:34:14, 16/09/2022 9:34:43, 
+ 16/09/2022 9:35:13, 16/09/2022 9:35:42, 16/09/2022 9:29:54, 
+ 16/09/2022 9:30:23, 16/09/2022 9:30:52, 16/09/2022 9:31:22, 
+ 16/09/2022 9:31:51}
