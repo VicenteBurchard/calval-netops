@@ -1,4 +1,4 @@
-ame: calval-netops
+name: calval-netops
 channels:
     - conda-forge
 dependencies:
