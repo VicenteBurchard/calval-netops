@@ -1,4 +1,4 @@
-name: calval-netops
+ame: calval-netops
 channels:
     - conda-forge
 dependencies:
@@ -14,3 +14,5 @@ dependencies:
     - geopandas
     - pathlib
     - scikit-learn
+    - mystmd
+    - jupyterlab-myst
