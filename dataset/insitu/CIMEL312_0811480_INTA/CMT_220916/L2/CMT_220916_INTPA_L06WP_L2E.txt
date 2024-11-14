@@ -1,7 +1,0 @@
-Instrument:INTA CLIMAT 312 2b
-Project: INTPA22
-Surface Emissivity
-Time[LocalTime] C6[8.4µm] C5[8,65µm] C4[9.13µm] C1[10.47µm] C3[10.52µm]
-C2[11.23µm] BTºC
-Surface Emissivity TES_Temp=       32.151153ºC
-   mean_emissivity      1.012      0.995      0.986      0.988      0.983      0.989

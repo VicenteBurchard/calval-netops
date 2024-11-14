@@ -19,3 +19,6 @@ dependencies:
     - fiona
     - rasterio
     - rasterstats
+    - pip
+    pip:
+      - owncloud
