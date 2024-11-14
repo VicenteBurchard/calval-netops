@@ -16,3 +16,6 @@ dependencies:
     - scikit-learn
     - mystmd
     - jupyterlab-myst
+    - fiona
+    - rasterio
+    - rasterstats
