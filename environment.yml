@@ -20,5 +20,5 @@ dependencies:
     - rasterio
     - rasterstats
     - pip
-    pip:
-      - owncloud
+    - pip:
+      - pyocclient
